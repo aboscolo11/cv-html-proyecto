@@ -1,1 +1,1 @@
-https://aboscolo11.github.io/cv-html-proyecto/
+https://roadmap.sh/projects/single-page-cv
